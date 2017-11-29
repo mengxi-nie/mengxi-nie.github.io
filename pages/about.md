@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-description: Benjamin Harvey is...
+title: Know something about Mengxi
+description: Mengxi Nie is...
 ---
 
 #### <a name="currentposition"></a>current position
@@ -16,14 +16,11 @@ description: Benjamin Harvey is...
 {Insert text here}
 
 
-#### <a name="education"></a>ecucation
-{Insert text here}
-
+#### <a name="education"></a>education
+Bachelor's Degree: University of Electronic Science and Technology of China
+Mater's Degree: The George Washington University
 
 #### <a name="cvandresume"></a>cv and resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
-
-
-
