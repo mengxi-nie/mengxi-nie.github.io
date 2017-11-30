@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Mengxi Nie's publications
 ---
 
 <div class="navbar">
@@ -31,6 +31,9 @@ description: Ben Harvey's publications
 
 
 #### <a name="conferences"></a>conferences
+M. Nie, P. Ran and H. Yang, "Efficient Multi-keyword Ranked Search over Outsourced Cloud Data based on Homomorphic Encryption", MATEC Web of Conferences 56(2016), ICCAE 2016, DOI: 10.1051/matecconf/20165601002
+
+Y. Huang, H. Yang, M. Nie and H. Wu, "Image Feature Extraction with Homomorphic Encryption on Integer Vector",  Proceeding ICMLSC '17 Proceedings of the 2017 International Conference on Machine Learning and Soft Computing, p.111-p.116, DOI: 10.1145/3036290.3036301 
 
 ---
 
