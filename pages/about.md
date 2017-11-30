@@ -5,16 +5,14 @@ description: Mengxi Nie is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+Graduate student in The George Washington University
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
-
+No
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
-
+09/2014 - 05/2016 Science and Technology on Communication Security Laboratory,610041 Chengdu, China 
 
 #### <a name="education"></a>education
 Bachelor's Degree: University of Electronic Science and Technology of China
